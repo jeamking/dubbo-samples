@@ -31,6 +31,6 @@ public class HelloworldApplication {
 			}
 		}.start();
 		Thread.sleep(2000);
-		ConsumerCenter.testSayHello();		
+		//ConsumerCenter.testSayHello();		
 	}
 }

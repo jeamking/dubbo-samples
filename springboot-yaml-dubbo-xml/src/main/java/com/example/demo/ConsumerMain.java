@@ -6,7 +6,7 @@ public class ConsumerMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.setProperty("service.version", "1.3");
+		System.setProperty("service.version", "1.4");
 		ConsumerCenter.testSayHello();
 	}
 
